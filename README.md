@@ -2,7 +2,7 @@
 
 👩🏻‍💻 I am a software developer that studied Computer Science at University of Piraeus </br>
 🔭 My most recent project is my thesis, *KindLink*: a volunteer management and event organization platform built with <b>ASP.NET Core</b> </br>
-🌱 I’m currently experimenting with Generative AI and specifically a Retrieval-Augmented Generation ([RAG](https://www.promptingguide.ai/research/rag))</br>
+🌱 I’m currently experimenting with Generative AI and specifically Retrieval-Augmented Generation ([RAG](https://www.promptingguide.ai/research/rag))</br>
 ⭐ Fun fact: In my free time, I crochet🧶
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vassiliki-karagianniki) 
